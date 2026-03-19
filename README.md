@@ -70,14 +70,6 @@ projects/
     └── README.md
 ```
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](https://github.com/Sharjeel7911/projects/blob/main/LICENSE).
-
----
-
 <div align="center">
 Made with ❤️ and C++ <br>
 </div>
